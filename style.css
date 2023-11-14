@@ -54,6 +54,9 @@ button{
     font-weight: 400;
     cursor: pointer;
 }
+
+/*Responsive code */
+
 @media (max-width:600px) {
     body{
         margin-top: 10vh;
